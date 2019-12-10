@@ -9,3 +9,6 @@ tmp
 
 # The development sqlite file
 database/*.sqlite
+api-site/
+package-lock.json
+api-site-512/
